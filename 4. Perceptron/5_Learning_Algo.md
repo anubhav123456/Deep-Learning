@@ -16,3 +16,4 @@
 
 
 ![screen size](../images/4_Perceptron/4_General_Learning_Algo/1_learning_algo.jpg)
+![screen size](../images/4_Perceptron/4_General_Learning_Algo/2_learning_algo.jpg)
