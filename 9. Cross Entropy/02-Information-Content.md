@@ -1,4 +1,4 @@
-# Lecture Summary: Information Content
+# Information Content
 
 This lecture introduces **Information Content (IC)**, which is the next concept in the journey toward understanding Entropy and eventually Cross-Entropy Loss.
 
