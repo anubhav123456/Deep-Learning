@@ -35,10 +35,10 @@ Now suppose your profit or loss depends on which team wins:
 
 | Winning Team | Profit / Loss |
 | :--- | :---: |
-| **A** | ₹$10,000$ |
-| **B** | ₹$2,000$ |
-| **C** | -₹$8,000$ |
-| **D** | ₹$5,000$ |
+| **A** | ₹10,000 |
+| **B** | ₹2,000 |
+| **C** | -₹8,000 |
+| **D** | ₹5,000 |
 
 *Note: Team C gives a negative value, representing a financial loss.*
 
