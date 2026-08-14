@@ -1,4 +1,4 @@
-# Lecture Summary: Introduction to Expectation
+# Introduction to Expectation
 
 This lecture begins the journey toward understanding Cross-Entropy Loss.
 
