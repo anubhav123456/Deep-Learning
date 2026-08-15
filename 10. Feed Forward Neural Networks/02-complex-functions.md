@@ -14,6 +14,9 @@ The lecture focuses on two big questions:
 The lecturer shows several real-world datasets to demonstrate that input-output relationships are often highly complex.
 
 #### Example 1: Income Prediction
+
+![RWP](../images/10_FFNN/cp3.jpg)
+
 A census dataset contains features such as:
 * Age
 * Hours worked per week
@@ -28,11 +31,17 @@ When data points are plotted by income class, the two classes are thoroughly mix
 ### 2. Medical & Behavioral Examples
 
 #### Indian Liver Patient Data
+
+![RWP](../images/10_FFNN/cp4.jpg)
+
 * **Features:** Age, albumin level, bilirubin level, and other medical measurements.
 * **Goal:** Predict the presence of liver disease.
 * **Surface Shape:** Positive and negative cases overlap in multiple clusters. The required decision surface must be **wavy and multi-peaked**—rising to $1$ in specific regions and dropping to $0$ nearby.
 
 #### Titanic Survival Prediction
+
+![RWP](../images/10_FFNN/cp5.jpg)
+
 * **Features:** Ticket class, fare, passenger age, etc.
 * **Goal:** Predict whether a passenger survived.
 * **Surface Shape:** Classes are mixed non-linearly, making simple monotonic models inadequate.
