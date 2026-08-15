@@ -40,11 +40,17 @@ Consider a dataset with two features:
 * **Screen Size**
 * **Cost**
 
+![Recap](../images/10_FFNN/cp1.jpg)
+![Recap](../images/10_FFNN/cp2.jpg)
+
 Suppose a customer only likes phones that satisfy *both* conditions:
-* **Screen size:** Between $3.5$ and $4.5$ inches
-* **Price:** Between ₹$8,000$ and ₹$12,000$
-* **Desired region (inside box):** Output $= 1$
-* **Undesired region (outside box):** Output $= 0$
+**Smartphone Preference Criteria:**
+* **Screen Size:** Between $3.5$ and $4.5$ inches
+* **Price:** Between ₹8,000 and ₹12,000
+
+**Output Rules:**
+* **Desired Region (inside box):** Output $= 1$
+* **Undesired Region (outside box):** Output $= 0$
 
 #### Why Simple Models Fail
 You **cannot draw a single straight line** to separate the desired phones from all surrounding undesired phones. This dataset is fundamentally **non-linearly separable**.
