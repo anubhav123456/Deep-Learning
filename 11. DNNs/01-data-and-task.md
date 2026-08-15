@@ -8,6 +8,7 @@ This lecture introduces the **types of data and machine learning tasks** where D
 
 ![RH](../images/11_DNN/1_data_and_task/data1.jpg)
 ![RH](../images/11_DNN/1_data_and_task/data2.jpg)
+![RH](../images/11_DNN/1_data_and_task/data3.jpg)
 
 The first example is the **MNIST handwritten digit dataset**.
 
