@@ -1,4 +1,5 @@
-# Lecture Summary: Universal Approximation Theorem — How Neural Networks Approximate Any Function
+# Universal Approximation Theorem 
+# How Neural Networks Approximate Any Function
 
 This lecture provides an intuitive proof of the **Universal Approximation Theorem (UAT)**.
 
