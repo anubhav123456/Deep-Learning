@@ -32,7 +32,7 @@ We can express the continuous curve as a linear combination of these localized b
 
 $$\hat{f}(x) = \sum_{i=1}^{N} f_i(x) = f_1(x) + f_2(x) + \dots + f_N(x)$$
 
-$$\boxed{\text{More \& Thinner Towers} \implies \text{Finer Granularity} \implies \text{Higher Approximation Precision}}$$
+$$\boxed{\text{More and Thinner Towers} \implies \text{Finer Granularity} \implies \text{Higher Approximation Precision}}$$
 
 ---
 
