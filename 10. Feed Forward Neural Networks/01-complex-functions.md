@@ -1,11 +1,11 @@
-# Lecture Summary: Why Do We Need Complex Functions?
+# Why Do We Need Complex Functions?
 
 This lecture introduces the main motivation for moving from simple models—like the MP Neuron, Perceptron, and Sigmoid Neuron—toward **Feedforward Neural Networks**.
 
 ---
 
 ### 1. Quick Recap
-
+![Recap](../images/10_FFNN/recap.jpg)
 So far, the course has covered:
 * **MP Neuron**
 * **Perceptron**
