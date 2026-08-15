@@ -2,7 +2,12 @@
 
 This lecture introduces the **types of data and machine learning tasks** where Deep Neural Networks can be used.
 
+![RH](../images/11_DNN/1_data_and_task/rh.jpg)
+
 ### 1. Multi-Class Classification — MNIST Example
+
+![RH](../images/11_DNN/1_data_and_task/data1.jpg)
+![RH](../images/11_DNN/1_data_and_task/data2.jpg)
 
 The first example is the **MNIST handwritten digit dataset**.
 
