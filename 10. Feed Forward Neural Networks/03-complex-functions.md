@@ -10,6 +10,8 @@ $$\boxed{\text{Simple Base Function (Neuron)} \longrightarrow \text{Combine via 
 
 ### 1. The Core Problem: We Cannot Manually Invent Complex Functions
 
+![RWP](../images/10_FFNN/cp7.jpg)
+
 Suppose we need to model a non-linear relationship $\hat{y} = f(x)$. 
 
 A complex mathematical function could theoretically look like:
@@ -47,6 +49,8 @@ While a single sigmoid neuron is simple, combining dozens or thousands of them c
 
 ### 4. Combining Neurons Into Layers
 
+![RWP](../images/10_FFNN/cp8.jpg)
+
 The hierarchical structure processes data sequentially:
 
 1. **Layer 1:** Transforms raw input features $x$.
@@ -72,16 +76,14 @@ To build a network, we must define its **hyperparameters**:
 * Number of neurons per layer
 * Layer connectivity and layer-wise scaling
 
-Network Configuration 1: [2 Layers, 50 Neurons each]
-Network Configuration 2: [4 Layers, 100 Neurons each]
-Network Configuration 3: [7 Layers, Variable Neurons]
-
 #### Optimization Pipeline
 $$\text{Try Candidate Architecture} \longrightarrow \text{Train Parameters} \longrightarrow \text{Compute Validation Loss} \longrightarrow \boxed{\text{Select Optimal Model}}$$
 
 ---
 
 ### 7. Why Deep Learning Succeeds
+
+![RWP](../images/10_FFNN/cp9.jpg)
 
 1. **Representation Power:** Multi-layered networks efficiently represent complex high-dimensional decision boundaries.
 2. **Standardized Architectures:** Established topologies (e.g., CNNs for vision, Transformers for NLP) serve as proven starting points.
