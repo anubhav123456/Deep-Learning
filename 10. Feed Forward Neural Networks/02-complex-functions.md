@@ -70,6 +70,9 @@ We know that training a model means finding an approximating function:
 $$\hat{y} = \hat{f}(x)$$
 
 #### The Core Challenge
+
+![RWP](../images/10_FFNN/cp6.jpg)
+
 For simple functions, we can explicitly write standard parametric forms:
 
 $$\sin(x), \quad \cos(x), \quad \sigma(w^T x + b)$$
