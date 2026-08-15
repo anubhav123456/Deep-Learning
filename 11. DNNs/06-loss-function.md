@@ -1,0 +1,1 @@
+![Loss Function](../images/11_DNN/4_loss_function/loss1.jpg)
