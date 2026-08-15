@@ -38,6 +38,9 @@ then we simply have two classes.
 
 ### 2. Real-world data can have complex non-linearity
 
+![Config](../images/11_DNN/3_config/config1.jpg)
+![Config](../images/11_DNN/3_config/config2.jpg)
+
 Suppose we have two input features:
 
 $$x_1, x_2$$
@@ -56,6 +59,8 @@ A **Deep Neural Network** can learn and approximate these nonlinear relationship
 ---
 
 ### 3. The main problem: How do we choose the network architecture?
+
+![Config](../images/11_DNN/3_config/config4.jpg)
 
 We know that neural networks can model complex functions.
 
@@ -89,6 +94,8 @@ There can be many possible configurations.
 ---
 
 ### 4. High-dimensional data makes visualization impossible
+
+![Config](../images/11_DNN/3_config/config3.jpg)
 
 With 2 or 3 input features, we can visualize the data and get some intuition about its structure.
 
